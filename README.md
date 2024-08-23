@@ -1,4 +1,4 @@
 # DSA
-Git Repository about DSA and DSA notes
+Git Repository about Data Structures and Algorithms
 Author - Rishit Kulkarni
 
